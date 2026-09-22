@@ -2,6 +2,6 @@ bin/
 dist/
 .env
 .env.*
+secrets/
 *.p8
-*.json
-!.github/**/*.json
+*.key
