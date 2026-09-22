@@ -1,0 +1,7 @@
+bin/
+dist/
+.env
+.env.*
+*.p8
+*.json
+!.github/**/*.json
